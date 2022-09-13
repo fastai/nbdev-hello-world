@@ -4,4 +4,6 @@
 __all__ = ['foo']
 
 # %% ../00_core.ipynb 3
+import streamlit
+
 def foo(): pass
